@@ -1,2 +1,2 @@
-# MCT1
-Quellcode zum Kurs Mikrocontrollertechnik 1
+# MCT
+Quellcode zum Kurs Mikrocontrollertechnik WS25
